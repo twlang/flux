@@ -1,2 +1,2 @@
-# wormflux
-Wormflux is the default automatic memory manager and pre-LLVM optimizer used for Timeworm
+# Wormflux
+Worm is the automatic memory manager and Flux is the pre-LLVM optimizer used in Timeworm.
