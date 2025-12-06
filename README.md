@@ -1,2 +1,2 @@
 # Timeworm Flux 
-The automatic memory manager and optimizer for Timeworm. testing
+The automatic memory manager and optimizer for Timeworm.
