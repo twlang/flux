@@ -6,4 +6,5 @@
 Flux is the stage that prepares code before it's sent to be compiled with LLVM. This stage includes the pre-LLVM "time-travel" optimizations, but the primary parts of this codebase are for memory safety using static analysis.
 
 #### Credits
-This codebase was mostly created by [Earl Dish](https://github.com/xmm16).
+Primary Developer: [Earl Dish](https://github.com/xmm16).
+Developer: [Namith Chelikani](https://github.com/NamithChelikani)
