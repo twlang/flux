@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/sbin/g++",
+      "-c",
+      "-O3",
+      "-std=c++23",
+      "-o",
+      "build/tworm",
+      "src/main.cpp"
+    ],
+    "directory": "/home/eshnd/Projects/flux",
+    "file": "/home/eshnd/Projects/flux/src/main.cpp",
+    "output": "/home/eshnd/Projects/flux/build/tworm"
+  }
+]
