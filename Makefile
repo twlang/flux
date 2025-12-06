@@ -1,6 +1,6 @@
 SRC = src/*.cpp
-END = build/tworm
-END_D = build/tworm_debug
+END = build/flux
+END_D = build/flux_debug
 
 COMP = g++
 FLAGS = -O3 -std=c++23
